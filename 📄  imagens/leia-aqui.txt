@@ -1,0 +1,3 @@
+Nesta pasta você vai adicionar as ilustrações correspondentes a cada capítulo.
+Salve cada imagem com o nome: capitulo1.jpg, capitulo2.jpg, etc.
+Depois, basta substituir o texto do espaço de imagem no arquivo index.html pelo caminho da imagem.
