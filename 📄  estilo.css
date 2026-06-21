@@ -1,0 +1,11 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; }
+body { background: #fefefe; color: #222; line-height: 1.7; }
+header { background: #2c2c2c; color: white; padding: 1.5rem; text-align: center; }
+.livro { max-width: 850px; margin: 2rem auto; padding: 0 1.2rem; }
+.apresentacao { margin-bottom: 2.5rem; font-style: italic; color: #444; }
+.capitulo { margin-bottom: 3rem; }
+.capitulo h2 { color: #2c2c2c; margin-bottom: 1rem; border-bottom: 2px solid #e0e0e0; padding-bottom: 0.5rem; }
+.espaco-imagem { background: #f8f8f8; border: 1px dashed #ccc; padding: 3rem; text-align: center; color: #888; margin: 1.2rem 0; border-radius: 6px; }
+.fechamento { text-align: center; font-size: 1.1rem; color: #2c2c2c; margin: 3rem 0; padding: 1.5rem; background: #f0f0f0; border-radius: 8px; }
+footer { text-align: center; padding: 1.2rem; color: #666; font-size: 0.9rem; }
+@media (max-width: 480px) { .livro { padding: 0 0.8rem; } }
